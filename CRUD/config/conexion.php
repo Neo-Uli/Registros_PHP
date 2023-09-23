@@ -1,7 +1,7 @@
 <?php 
 class conexion{
-private $usuario="root";
-private $clave="root";
+private $usuario="diego";
+private $clave="12345678";
 private $bd="accesos";
 
 private $servidor="localhosts";
