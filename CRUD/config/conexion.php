@@ -2,7 +2,7 @@
 class conexion{
 private $usuario="root";
 private $clave="root";
-private $bd="accesos";
+private $bd="accesos2";
 
 private $servidor="localhost";
 public $sql;public $res;public $conector;
