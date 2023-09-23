@@ -4,7 +4,7 @@ private $usuario="root";
 private $clave="root";
 private $bd="accesos2";
 
-private $servidor="localhost";
+private $servidor="app.dlopez.com";
 public $sql;public $res;public $conector;
 public function __Construct(){
 $this->conector=new mysqli($this->servidor,$this->usuario,
